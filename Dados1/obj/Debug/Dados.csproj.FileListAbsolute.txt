@@ -1,0 +1,4 @@
+c:\Users\Rick\documents\visual studio 2015\Projects\SetorRH\Dados1\bin\Debug\Dados1.dll
+c:\Users\Rick\documents\visual studio 2015\Projects\SetorRH\Dados1\bin\Debug\Dados1.pdb
+c:\Users\Rick\documents\visual studio 2015\Projects\SetorRH\Dados1\obj\Debug\Dados1.dll
+c:\Users\Rick\documents\visual studio 2015\Projects\SetorRH\Dados1\obj\Debug\Dados1.pdb

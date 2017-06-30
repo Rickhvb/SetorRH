@@ -1,0 +1,14 @@
+C:\Users\Rick\Desktop\SetorRH\Controlador\bin\Debug\Controlador.dll
+C:\Users\Rick\Desktop\SetorRH\Controlador\bin\Debug\Controlador.pdb
+C:\Users\Rick\Desktop\SetorRH\Controlador\bin\Debug\Modelo.dll
+C:\Users\Rick\Desktop\SetorRH\Controlador\bin\Debug\Modelo.pdb
+C:\Users\Rick\Desktop\SetorRH\Controlador\obj\Debug\Controlador.csprojResolveAssemblyReference.cache
+C:\Users\Rick\Desktop\SetorRH\Controlador\obj\Debug\Controlador.dll
+C:\Users\Rick\Desktop\SetorRH\Controlador\obj\Debug\Controlador.pdb
+C:\Users\Rick\Dropbox\SetorRH\Controlador\bin\Debug\Controlador.dll
+C:\Users\Rick\Dropbox\SetorRH\Controlador\bin\Debug\Controlador.pdb
+C:\Users\Rick\Dropbox\SetorRH\Controlador\bin\Debug\Modelo.dll
+C:\Users\Rick\Dropbox\SetorRH\Controlador\bin\Debug\Modelo.pdb
+C:\Users\Rick\Dropbox\SetorRH\Controlador\obj\Debug\Controlador.csprojResolveAssemblyReference.cache
+C:\Users\Rick\Dropbox\SetorRH\Controlador\obj\Debug\Controlador.dll
+C:\Users\Rick\Dropbox\SetorRH\Controlador\obj\Debug\Controlador.pdb

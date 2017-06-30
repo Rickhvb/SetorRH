@@ -1,0 +1,14 @@
+c:\users\rick\documents\visual studio 2015\Projects\SetorRH\SetorRH\bin\Debug\SetorRH.exe.config
+c:\users\rick\documents\visual studio 2015\Projects\SetorRH\SetorRH\obj\Debug\SetorRH.Properties.Resources.resources
+c:\users\rick\documents\visual studio 2015\Projects\SetorRH\SetorRH\obj\Debug\SetorRH.csproj.GenerateResource.Cache
+c:\users\rick\documents\visual studio 2015\Projects\SetorRH\SetorRH\bin\Debug\SetorRH.exe
+c:\users\rick\documents\visual studio 2015\Projects\SetorRH\SetorRH\bin\Debug\SetorRH.pdb
+c:\users\rick\documents\visual studio 2015\Projects\SetorRH\SetorRH\obj\Debug\SetorRH.exe
+c:\users\rick\documents\visual studio 2015\Projects\SetorRH\SetorRH\obj\Debug\SetorRH.pdb
+c:\users\rick\documents\visual studio 2015\Projects\SetorRH\SetorRH\obj\Debug\SetorRH.Visao.frmFuncionario.resources
+c:\users\rick\documents\visual studio 2015\Projects\SetorRH\SetorRH\bin\Debug\Dados1.dll
+c:\users\rick\documents\visual studio 2015\Projects\SetorRH\SetorRH\bin\Debug\Dados1.pdb
+c:\users\rick\documents\visual studio 2015\Projects\SetorRH\SetorRH\obj\Debug\SetorRH.csprojResolveAssemblyReference.cache
+C:\Users\Rick\Desktop\SetorRH\SetorRH\bin\Debug\SetorRH.exe.config
+C:\Users\Rick\Desktop\SetorRH\SetorRH\obj\Debug\SetorRH.exe
+C:\Users\Rick\Desktop\SetorRH\SetorRH\obj\Debug\SetorRH.pdb

@@ -1,0 +1,5 @@
+c:\Users\Rick\documents\visual studio 2015\Projects\SetorRH\Dados\bin\Debug\Dados.dll
+c:\Users\Rick\documents\visual studio 2015\Projects\SetorRH\Dados\bin\Debug\Dados.pdb
+c:\Users\Rick\documents\visual studio 2015\Projects\SetorRH\Dados\obj\Debug\Dados.csprojResolveAssemblyReference.cache
+c:\Users\Rick\documents\visual studio 2015\Projects\SetorRH\Dados\obj\Debug\Dados.dll
+c:\Users\Rick\documents\visual studio 2015\Projects\SetorRH\Dados\obj\Debug\Dados.pdb

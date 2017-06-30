@@ -1,0 +1,8 @@
+C:\Users\Rick\Desktop\SetorRH\Modelo\bin\Debug\Modelo.dll
+C:\Users\Rick\Desktop\SetorRH\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Rick\Desktop\SetorRH\Modelo\obj\Debug\Modelo.dll
+C:\Users\Rick\Desktop\SetorRH\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Rick\Dropbox\SetorRH\Modelo\bin\Debug\Modelo.dll
+C:\Users\Rick\Dropbox\SetorRH\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Rick\Dropbox\SetorRH\Modelo\obj\Debug\Modelo.dll
+C:\Users\Rick\Dropbox\SetorRH\Modelo\obj\Debug\Modelo.pdb
